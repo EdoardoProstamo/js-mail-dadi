@@ -9,7 +9,7 @@ for (let i=0; i<inviti.length; i++) {
         accesso=true;
     }
 }
-// stampa un messaggio appropriato sull’esito del controllo, utilizzando un ciclo for.ù
+// stampa un messaggio appropriato sull’esito del controllo, utilizzando un ciclo for
 if (accesso=true) {
     console.log("Benvenuto");
 } else {
