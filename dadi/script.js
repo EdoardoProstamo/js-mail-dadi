@@ -24,7 +24,7 @@ console.log(isNumberValid);
 
 
 
-//Mathf loor
+//Math floor
 // const userNumber = Math.floor(Math.random() * 6) + 1; arrotonda per difetto
 
 //Math round
